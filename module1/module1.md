@@ -1959,6 +1959,10 @@ puis répondez à la question qui suit.</p>{}
 // question: 298  name: Exemple d'application qui ne respecte pas la loyauté
 ::Exemple d'application qui ne respecte pas la loyauté::[html]<p>Donnez un exemple d'application citée dans l'enregistrement qui ne respecte pas les principes de base de loyauté entre éditeur d'application et utilisateur.</p>{}
 
+::tracker::
+[markdown]
+Aujourd'hui la majorité des collectes d'informations personnelles passent par les smartphones. Après avoir lu l'article suivant : <a href="http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html">des-mouchards-caches-dans-vos-applications-pour-smartphones</a>, allez sur le site de la plateforme <a href="https://reports.exodus-privacy.eu.org/reports/apps/">exodus</a> et vérifier les trackers présents dans vos 2 applications préférées ainsi que dans l'application Izly proposée par le Crous pour payer le restaurant universitaire. Qu'en pensez-vous ? N'hésitez à partager vos impressions sur le forum du cours.{}
+
 ```
 
 
@@ -2130,14 +2134,12 @@ Faites maintenant une recherche avec `"université Lille"` (en incluant les guil
 ::neutralité 1::[html]<p>Consultez l'interview suivante et expliquez en quoi il est important pour un moteur de recherche de donner une réponse neutre. <a href="http://www.inria.fr/actualite/actualites-inria/la-neutralite-ne-suffit-pas" target="_blank">http://www.inria.fr/actualite/actualites-inria/la-neutralite-ne-suffit-pas</a></p>{}
 
 
-// question: 303  name: neutralité 2
-::neutralité 2::[html]<p>Le gouvernement français travaille sur un projet de loi "<em>pour une République numérique</em>", consultable sur <a href="https://www.republique-numerique.fr" target="_blank">https://www.republique-numerique.fr</a><br></br>Nous vous invitons à enrichir vos connaissances en consultant ce site en détail.</p><p>Expliquez en quoi l'article consultable <a href="https://www.republique-numerique.fr/consultations/projet-de-loi-numerique/consultation/consultation/opinions/section-3-loyaute-des-plateformes/article-13-principe-de-loyaute-vis-a-vis-des-consommateurs" target="_blank">ici</a> répond au moins en partie à ce que souligne Serge Abiteboul dans son <a href="http://www.inria.fr/actualite/actualites-inria/la-neutralite-ne-suffit-pas" target="_blank">interview</a> à la question sur la neutralité des moteurs de recherche. Pour cela recopiez une phrase de l'interview et une phrase de l'explication de l'article de loi. </p>{}
-
-
 // question: 304  name: neutralité 3
 ::neutralité 3::[html]<p>Le gouvernement français travaille sur un projet de loi "<em>pour une République numérique</em>", consultable sur <a href="https://www.republique-numerique.fr" target="_blank">https://www.republique-numerique.fr</a><br></br>Nous vous invitons à enrichir vos connaissances en consultant ce site en détail.</p><p>Testez vos connaissances en répondant aux 14 questions du quizz (<a href="http://www.gouvernement.fr/quiz-le-projet-de-loi-numerique" target="_blank">http://www.gouvernement.fr/quiz-le-projet-de-loi-numerique</a>) et répondez ci-dessous à la question suivante: <strong>quelles sont les deux questions dont les réponses vous ont le plus surpris ?</strong></p>{}
 
-
+::neutralité actu 2018::
+[markdown]
+En vous aidant entre autres du lien suivant <a href="https://www.laquadrature.net/fr/neutralite_du_Net">www.laquadrature.net/fr/neutralite_du_Net</a>, répondez à la question : Où en est la neutralité aujourd'hui ?{}
 
 ::Attention, l'abus de Google est dangereux pour la planète !::Attention, vous n'avez droit qu'à une seule tentative. Répondez d'abord dans un document séparé, puis collez les réponses dans la zone prévue une fois votre travail terminé.
 
