@@ -93,9 +93,9 @@ ces objets sont équipés de micro-processeurs !</p> }
 \n
 Le numérique concerne évidemment les étudiants en informatique et plus généralement les étudiants des filières scientifiques.  Mais vous qui êtes inscrits dans une université de sciences humaines et sociales, êtes-vous concernés ?
 \n
-Choisissez au moins 3 des domaines suivants et faites des recherches pour voir en quoi ils sont impactés par le numérique : les médias, la santé, l'histoire, la sociologie, la linguistique, les arts, la culture, l'enseignement, l'archéologie.
+Choisissez au moins 2 des domaines suivants et faites des recherches pour voir en quoi ils sont impactés par le numérique : les médias, la santé, l'histoire, la sociologie, la linguistique, les arts, la culture, l'enseignement, l'archéologie.
 \n
-Faites une synthèse en quelques lignes de vos recherches en précisant les domaines auxquels vous vous êtes intéressés. Indiquez les liens des sites sur lesquels vous avez trouvé ces informations. La liste est non exhaustive et vous pouvez vous intéresser à d'autres domaines.
+Faites une **synthèse** en quelques lignes de vos recherches en précisant les **domaines** auxquels vous vous êtes intéressés. Indiquez les **liens des sites** sur lesquels vous avez trouvé ces informations. La liste est non exhaustive et vous pouvez vous intéresser à d'autres domaines.
 {####
 # Le numérique concerne tout le monde
 Ces recherches ont dû vous convaincre, si c'était nécessaire, que le numérique **n'est pas réservé** aux informaticiens, il concerne tout le monde, toutes les disciplines.
@@ -681,66 +681,6 @@ ordinateur qu'à afficher ce contenu.
 ```
 
 ```activité
-::Combien y-a-t-il d'adresses IP ?::
-[markdown]
-**Plus assez d'adresses IP ?**
-\n
-Les fondateurs d'internet n'envisageaient sûrement pas le succès phénoménal qu'il a rencontré. Aussi, le système de numérotation des adresses `IP` n'a pas été prévu suffisamment large pour répondre au nombre d'utilisateurs grandissant. Nous sommes depuis quelques années arrivés à un stade de **pénurie d'adresses IP**. La norme a donc dû évoluer. Aujourd'hui, deux normes cohabitent en attendant que tous les anciens systèmes s'adaptent à la nouvelle. Ces deux normes portent les noms de `IPV4` et `IPV6`. Faites des recherches sur ces normes pour répondre aux 2 questions suivantes :
-\n
-- Dans la norme IP version 4 `IPV4`, un numéro est composé de 4 nombres entre 0 et 255. Avec cette norme, y a-t-il plus de numéro IP possibles que d'êtres humains sur terre ?
-- Nouvelle norme IP version 6 `IPV6`. Combien pourrait-on avoir de numéros IPV6 différents par millimètre carré de la surface de la terre ?
-{####
-## Combien y-a-t-il d'adresses IP ?
-### `IP V4` : nombre d'adresses *vs* nombre d'êtres humains
-\n
-La population mondiale est supérieure à 7 milliards, or le système `IPV4` ne peut représenter que 4 milliards (4 294 967 296 = (2^^32^ )) d'adresses, ce qui est largement insuffisant.
-L'apparition entre autre des *objets connectés* et des appareils mobiles fait exploser la demande et on entrevoit que cette demande va considérablement augmenter dans un avenir proche.
-\n
-### `IP V6`, on voit les choses en grand
-v
-Heureusement, la nouvelle norme `IPV6` est quand à elle beaucoup plus généreuse :
-\n
-*Extrait wikipedia* : [http://fr.wikipedia.org/wiki/IPv6](http://fr.wikipedia.org/wiki/IPv6)
-\n
-`l'augmentation de 2^^32 (soit environ 4,3×109) à 2128 (soit environ 3,4×1038) du nombre d'adresses disponibles.
-Pour épuiser la totalité de ce stock d'adresses, il faudrait placer 667 millions de milliards d'appareils connectés sur chaque millimètre carré de la surface de la Terre`
-Cette fois on peut espérer tenir avec ce système un bon moment.
-\n
-### Le numérique compte en binaire :
-\n
-Nous n'avons pas encore vu comment on code les informations en binaire. Pour tous ceux d'entre vous qui n'ont pas de culture scientifique, cela peut paraître abstrait. On peut quand même remarquer que les résultats ci-dessus s'expliquent en calculant de la façon suivante :
-\n
-- `IPV4` utilise des adresses codées sur 32 bits, le nombre de combinaisons est alors 2^32.
-- `IPV6` code les adresses sur 128 bits, ce qui fait 2^128 adresses possibles.
-}
-
-::Les serveurs de noms::
-[markdown]
-**Les serveurs de noms : un maillon fragile de l'édifice**
-\n
-La norme qui régit le fonctionnement des serveurs de noms propose une organisation pyramidale des machines. Les machines au sommet de cette pyramide sont les **serveurs racine de DNS** ( DNS pour Domain Name System, en français, on parle de système de nom de domaine).
-\n
-À partir de [cette ressource](http://fr.wikipedia.org/wiki/Serveur_racine_du_DNS), faites les recherches nécessaires pour répondre aux questions suivantes :
-\n
-- Si ces machines s'arrêtaient, la traduction des adresses `IP` en nom et vice-versa s'arrêterait. Quel serait, à votre avis, l'impact de cet arrêt ?
-- Combien existe-t-il de serveurs racine de DNS ?
-- Qui possède ces machines : des états, des organisations, des sociétés privées ?
-- Où se trouvent-elles majoritairement ?
-- Que s'est-il passé en 2002 et 2007 ?
-{####
-## Les serveurs de noms [correction]
-### Les serveur racines de DNS
-\n
-Si les serveurs racines de DNS **s'arrêtaient**, alors progressivement les millions de serveurs de noms répartis sur la planète qui en dépendent deviendraient obsolètes et la **correspondance** entre les noms des machines, que nous utilisons et les adresses IP **ne fonctionnerait plus**. En d'autres termes **internet s'arrêterait**.
-Or, il n'existe que **13** serveurs racines, ils sont détenus (sécurisés et entretenus) par des **états**, des sociétés **commerciales** **privées** ou des **organisations**. Les machines qui hébergent ces serveurs sont majoritairement situées sur le **sol américain** et donc soumis au **droit américain**, alors que l'ensemble de la planète en dépend.
-Beaucoup de gens pensent que cela constitue un problème, un bien commun universel aux mains de quelques-uns, soumis aux lois d'un seul pays, peut-on, doit-on faire confiance à des sociétés privées pour prendre les décisions qui concernent la gestion, la sécurité et le bon fonctionnement d'éléments aussi cruciaux que les serveurs racines de DNS. Certains militent pour une vision plus démocratique avec des décisions partagées.
-\n
-Vous êtes maintenant en capacité de comprendre ces questions pour vous forger votre propre opinion.
-Ces serveurs racines sont des points faible du système, si l'un d'entre eux devient indisponible, alors c'est un 13ème de la charge qui qui doit être réparti sur les douze autres. Vu le nombre gigantesque de requêtes effectuées en permanence, cela peut ralentir l'ensemble du réseau à l'échelle de la planète.
-C'est ce qui s'est passé en **2002** et en **2007**, lorsque des serveurs racines ont été la cible de **cyber attaques**.
-*cf* [http://fr.wikipedia.org/wiki/Serveur_racine_du_DNS#Attaque_de_2002](http://fr.wikipedia.org/wiki/Serveur_racine_du_DNS#Attaque_de_2002).
-}
-
 ::Panne générale::
 [markdown]
 **Panne générale**
@@ -879,70 +819,7 @@ Si vous vous connectez avec la **4G** depuis l'université, devez-vous respecter
 OUI et OUI, les services numériques en particulier ceux accessibles depuis **l'ENT** sont soumis à cette charte **quel que soit le mode de connexion**. En revanche, si vous vous connectez en 4G à d'autres sites que ceux de l'université tout en étant physiquement dans les batiments de l'établissement, aucune information ne sera collectée par l'université.
 }
 
-
 ```
-
-```activité
-
-::Utiliser les serveurs de noms::
-[markdown]
-**Utiliser les serveurs de noms**
-\n
-Il existe des *outils* dans votre ordinateur pour interroger les serveurs de noms et faire donc la *conversion* entre `adresses IP` et `noms`. Ils sont intégrés par exemple dans le navigateur web et la plupart des outils qui utilisent internet. Même s'il est possible de les utiliser directement, ils sont assez techniques.
-Nous vous proposons d'utiliser plutôt un **service** disponible sur internet à travers le navigateur : [http://www.monip.fr](http://www.monip.fr)
-Selon ce site :
-  - quelle est votre adresse IP ?
-  - où vous trouvez-vous ?
-\n
-D'après ce site, où se trouvent les machines suivantes :
-\n
-  - [www.wikipedia.org](www.wikipedia.org)
-  - [www.facebook.com](www.facebook.com)
-  - [www.google.com](www.google.com)
-  \n
-Quelle est l'adresse IP de la machine qui porte le nom [www.grappa.univ-lille3.fr](www.grappa.univ-lille3.fr) ?
-\n
-**Copiez** l'adresse IP que vous venez de  trouver dans la **barre d'adresse de votre navigateur.** Dans un autre onglet, **copiez** le **nom** : www.grappa.univ-lille3.fr dans la barre d'adresse.
-\n
-- Que constatez vous ?
-\n
-Une fois validé votre rendu, vous pourrez consulter la correction pour vous auto-évaluer, ...
-{####
-## Utiliser les serveurs de noms
-### Votre propre IP
-\n
-Grâce à [http://www.monip.fr](http://www.monip.fr) vous avez trouvé votre adresse IP, elle est évidemment différente pour chacun d'entre nous.
-Si vous recommencez depuis une autre machine ou avec la même machine connectée différemment (wifi domicile ou wifi eduroam, connexion filaire à l'université ou eduroam université, connexion wifi ou connexion 3G/4G) vous obtiendrez à chaque fois un résultat **différent**.
-\n
-Pour ce qui est de la **localisation**, vous avez sûrement obtenu une adresse géographiquement proche de la votre, celle-ci est en fait l'*adresse du  routeur du fournisseur d'accès* du réseau auquel vous êtes connecté.
-Vous pouvez également constater que vos informations personnelles telles que :
-\n
-- le navigateur que vous utilisez,
-- la langue utilisée,
-- la taille de votre écran, ...
-\n
-ont été **repérés** par le site www.monip.fr et vous sont renvoyés dans la liste des informations.
-\n
-### Wikipedia, facebook et google
-\n
-Vous avez dû trouver que la localisation de wikipedia est aux *Pays-Bas*, près *d'Amsterdam*. C'est en effet là que se trouve la copie la plus proche.
-D'autres répliques de la célèbre encyclopédie existent également en *Floride* et en *Corée du  Sud*.
-`Facebook` est hébergé à *Kensington*, dans *l'Ohio* aux *États-Unis*, c'est là que les *données* de tous les utilisateurs sont stockées.
-Alors que `Google` se trouve à *Mountain View* en *Californie*.
-Toutes les **lois** concernant la sécurisation de nos données et les respect de **notre vie privée** pour ces 2 sites sont donc des lois **américaines**.
-\n
-### www.monip.fr
-\n
-et oui, ce site est une version traduite en français d'un site Allemand.
-\n
-### www.grappa.univ-lille3.fr
-\n
-l'adresse **IP** de l'équipe de recherche Grappa est : `194.254.132.190`
-Si vous copiez cette adresse dans dans la barre d'adresse de votre navigateur, vous tombez exactement sur la **même page** que si vous allez sur [www.grappa.univ-lille3.fr](www.grappa.univ-lille3.fr).
-Cela ne doit pas vous surprendre si vous avez compris l'objet de cette séquence.}
-```
-
-
 
 # Les supports physiques de transmission de l'information
 
@@ -1195,37 +1072,6 @@ Notez bien que pour pouvoir bénéficier d'une connexion 4G, il faut :
  - que votre smartphone soit équipé d'une antenne 4G, c'est loin d'être le cas sur tous les modèles y compris sur des appareils récents.
  }
 
-::Les débits::
-[markdown]
-**Pouvoir évaluer les ordres de grandeur**
-\n
-Le **débit** est une des mesures caractérisant la **qualité** d'une connexion. Il mesure la quantité d'information que l'on peut transmettre à chaque seconde. Pour mesurer le débit d'une connexion, il faut d'abord savoir ce qu'est un bit. Un bit est l'élément d'information de base manipulé par un ordinateur qui ne peut prendre comme valeur que 0 ou 1. Toutes les données dans un ordinateur sont codées en une suite de bits. Transmettre des données numérisées c'est donc transmettre des bits.
-\n
-Généralement le débit est mesuré en bit par seconde `bit/s` ou ses variantes : (kilo-bit par seconde `kbit/s`, mille bits par seconde,  mega-bit par second `Mbit/s`, un million de bits par seconde, giga-bit par seconde `Gbit/s`, un milliard de bits par seconde)
-\n
-Du débit, dépend notamment le *temps* nécessaire pour télécharger un morceau de musique ou la qualité d'une vidéo lue en continu.
-Le nombre de bits que l'on peut stocker sur un DVD Blu-ray double couche est 50 gigaoctets (Go), soit 400 gigabits, car un octet est une séquence de 8 bits. Calculer le temps de transmission d'un DVD Blu-ray double couche complet dans les cas suivants:
-\n
-    - l'ADSL à 10Mb/s
-    - La fibre à 1Gb/s
-    - Le wifi à 50Mb/s
-    - La 3G à 384 Kb/s
-    - La 4G à 150Mb/s
-{
-####
-Un DVD Blu-ray double couche a une capacité de 50 gigaoctets (Go), soit 400 gigabits 400 gigabits (Gb), soit encore 400 000 megabits (Mb). Un octet étant une séquence de 8 bits, la capacité s'écrit également 400 000 000 kilobits (Kb).
-\n
-Pour obtenir le temps, il faut bien-sûr diviser cette quantité, dans la bonne unité par le débit considéré.
-On obtient:
-\n
-    - ADSL à 10Mb/s : 400 000/10 = 40 000 secondes soit un peu plus de 11 heures
-    - Fibre à 1 Gb/s : 400/1 = 400 secondes un peu plus de 6 minutes
-    - Wifi à 50 Mb/s : un peu plus de 2 heures
-    - 3G à 384 Kb/s : 400 000 000/384 soit 1041666 secondes un peu plus de 12 jours
-    - 4G à 150 Mb/s : 400 000 / 150 un peu plus de 44 minutes.
-    \n
-Il est donc très rare qu'on échange des vidéos sous le format de ces Blu-ray sur internet et c'est en général des vidéos de moindre qualité qui sont disponibles pour le téléchargement ou la lecture en flux (streaming).
-}
 ```
 
 ## Le saviez-vous ?
@@ -1443,7 +1289,7 @@ Au 20 juillet 2013, la CNIL était composée de 17 membres et 174 agents.
 }
 ```
 
-# Introduction
+# Le Web
 
 ## Cours 1/2
 [video]( https://vimeo.com/138623497 ){: .cours_video }
