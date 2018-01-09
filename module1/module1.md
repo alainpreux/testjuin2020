@@ -2134,8 +2134,8 @@ Faites maintenant une recherche avec `"université Lille"` (en incluant les guil
 ::neutralité 1::[html]<p>Consultez l'interview suivante et expliquez en quoi il est important pour un moteur de recherche de donner une réponse neutre. <a href="http://www.inria.fr/actualite/actualites-inria/la-neutralite-ne-suffit-pas" target="_blank">http://www.inria.fr/actualite/actualites-inria/la-neutralite-ne-suffit-pas</a></p>{}
 
 
-// question: 304  name: neutralité 3
-::neutralité 3::[html]<p>Le gouvernement français travaille sur un projet de loi "<em>pour une République numérique</em>", consultable sur <a href="https://www.republique-numerique.fr" target="_blank">https://www.republique-numerique.fr</a><br></br>Nous vous invitons à enrichir vos connaissances en consultant ce site en détail.</p><p>Testez vos connaissances en répondant aux 14 questions du quizz (<a href="http://www.gouvernement.fr/quiz-le-projet-de-loi-numerique" target="_blank">http://www.gouvernement.fr/quiz-le-projet-de-loi-numerique</a>) et répondez ci-dessous à la question suivante: <strong>quelles sont les deux questions dont les réponses vous ont le plus surpris ?</strong></p>{}
+// question: 304  name: neutralité 2
+::neutralité 3::[html]<p>Le gouvernement français a travaillé sur un projet de loi "<em>pour une République numérique</em>", consultable sur <a href="https://www.republique-numerique.fr" target="_blank">https://www.republique-numerique.fr</a><br></br>Nous vous invitons à enrichir vos connaissances en consultant ce site en détail.</p><p>Testez vos connaissances en répondant aux 14 questions du quizz (<a href="http://www.gouvernement.fr/quiz-le-projet-de-loi-numerique" target="_blank">http://www.gouvernement.fr/quiz-le-projet-de-loi-numerique</a>) et répondez ci-dessous à la question suivante: <strong>quelles sont les deux questions dont les réponses vous ont le plus surpris ?</strong></p>{}
 
 ::neutralité actu 2018::
 [markdown]
