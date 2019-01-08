@@ -93,9 +93,9 @@ ces objets sont équipés de micro-processeurs !</p> }
 \n
 Le numérique concerne évidemment les étudiants en informatique et plus généralement les étudiants des filières scientifiques.  Mais vous qui êtes inscrits dans une université de sciences humaines et sociales, êtes-vous concernés ?
 \n
-Choisissez au moins 2 des domaines suivants et faites des recherches pour voir en quoi ils sont impactés par le numérique : les médias, la santé, l'histoire, la sociologie, la linguistique, les arts, la culture, l'enseignement, l'archéologie.
+Choisissez 1 des domaines suivants et faites des recherches pour voir en quoi ils sont impactés par le numérique : les médias, la santé, l'histoire, la sociologie, la linguistique, les arts, la culture, l'enseignement, l'archéologie.
 \n
-Faites une **synthèse** en quelques lignes de vos recherches en précisant les **domaines** auxquels vous vous êtes intéressés. Indiquez les **liens des sites** sur lesquels vous avez trouvé ces informations. La liste est non exhaustive et vous pouvez vous intéresser à d'autres domaines.
+Faites une **synthèse** en quelques lignes de vos recherches en précisant les **domaines** auxquels vous vous êtes intéressés. Indiquez les **liens des sites** sur lesquels vous avez trouvé ces informations. La liste est non exhaustive et vous pouvez vous intéresser à d'autres domaines. Recopiez votre réponse dans le forum et participez à la discussion.
 {####
 # Le numérique concerne tout le monde
 Ces recherches ont dû vous convaincre, si c'était nécessaire, que le numérique **n'est pas réservé** aux informaticiens, il concerne tout le monde, toutes les disciplines.
@@ -120,34 +120,6 @@ Voici quelques exemples que nous vous proposons, n'hésitez pas à proposer d'au
 ```
 
 ```activité-avancée
-::Le numérique au quotidien::[markdown]Les microprocesseurs, les ordinateurs ont envahi notre quotidien. Pour chacun des domaines suivants, cherchez des exemples où le numérique a permis des évolutions notables :
-\n
-- Domotique
-- Transports
-- Vêtements
-- Médical / paramédical
-\n
-Après avoir effectué vos recherches, copier dans la fenêtre de rendu 1 lien pour au moins 3 des 4 thèmes proposés (un lien par thème).
-{####
-# le numérique au quotidien
-Quelques exemples que nous vous proposons au cas où vous n'auriez rien trouvé, ...
-\n
-La **domotique** est un domaine en pleine expansion qui vise à équiper numériquement notre maison :
-\n
-- [nest](https://nest.com/fr/)
-- [domotique](http://fr.wikipedia.org/wiki/Domotique)
-\n
-Pour les **transports**, les ordinateurs de bord sont depuis longtemps présents dans les voitures, de plus en plus ils sont responsables de notre sécurité :
-\n
-- [electrostabilisateur]( http://fr.wikipedia.org/wiki/electrostabilisateur_programmé)
-- [ordinateur de bord](http://fr.wikipedia.org/wiki/Ordinateur_de_bord)
-\n
-Les **chaussures** : gadget ou réelle innovation ? Ce genre d'objet est de plus en plus présents dans nos vies :
-\n
- - [chaussures](http://www.linternaute.com/science/technologie/deja-demain/07/chaussure-intelligente/chaussure-intelligente.shtml)
-Les **lentilles pour la vue** ?
- - [lentilles](http://www.zdnet.fr/actualites/google-apres-les-lunettes-connectees-les-lentilles-pour-le-diabete-39797148.htm)
-}
 
 ::Le numérique dans la société::
 [markdown]
@@ -155,17 +127,13 @@ Les **lentilles pour la vue** ?
 \n
 Le numérique nous concerne tous en tant que citoyen. Il permet de nouvelles choses en automatisant des procédures et en donnant accès à des données jusqu'ici inexploitables. Mais numérique n'est évidemment pas systématiquement synonyme de progrès. Il faut toujours réfléchir aux **finalités des applications** développées. Nous vous invitons à vous documenter et à réfléchir aux questions suivantes :
 \n
-- Dans la **gestion de l‘énergie**: qu'est-ce que la troisième révolution industrielle et pourquoi le numérique y contribue-t-il ?
 - En **politique et média** : Qu'est-ce que la vérification par les faits (fact-checking en anglais) ? En quoi le numérique l'a rendue possible / facile ?
 - En **citoyenneté** : Que signifie vote électronique et en quoi cela pose-t-il des questions essentielles ? Trouver au moins un avantage et un inconvénient.
 \n
-Après avoir fait vos recherches, répondez aux questions posées en quelques lignes et en indiquant les liens où vous avez trouvé ces informations.
+Après avoir fait vos recherches, répondez aux questions posées en quelques lignes et en indiquant les liens où vous avez trouvé ces informations. Répondez aussi dans le forum.
 {####
 Voici quelques liens que nous vous proposons mais que vous avez sûrement trouvés par vous-même :
 \n
-- À propos de la troisième révolution industrielle :
-	- [Troisième révolution industrielle](http://fr.wikipedia.org/wiki/Troisième_révolution_industrielle)
-	- [pasdecalais](http://www.latroisiemerevolutionindustrielleennordpasdecalais.fr)
 - En politique et média : Qu'est-ce que la vérification par les faits (fact-checking en anglais) ? En quoi le numérique l'a rendue possible / facile ?
 	- [vérification par les faits](http://fr.wikipedia.org/wiki/Vérification_par_les_faits)
 - En citoyenneté : Que signifie vote électronique et en quoi cela pose-t-il des questions essentielles ? Trouver au moins un avantage et un inconvénient.
@@ -295,7 +263,7 @@ Vous connaissez sans doute des personnages importants de l'activité économique
 \n
 Par ailleurs, l'un de ces personnages est étroitement lié à une machine : **ENIGMA**. Vous chercherez également ce qu'est cette machine et à quoi elle servait. Tous deux, l'homme et la machine, sont les héros du film *The imitation Game* sorti sur les écrans français en janvier 2015.
 \n
-Après avoir effectué vos recherches sur ces personnes et cette machine, rédigez une présentation en quelques lignes en les resituant chronologiquement.
+Après avoir effectué vos recherches sur ces personnes et cette machine, rédigez une présentation en quelques lignes en les resituant chronologiquement. Présentez dans le forum la personne qui vous semble avoir été la plus importante, dites pourquoi.
 {####
 ## Personnages importants
 ### Ada Lovelace
@@ -351,7 +319,7 @@ En vous aidant par exemple de [cette page](http://fr.wikipedia.org/wiki/Histoire
 - Ipad (premier modèle)
 - smartphone Samsung Galaxy S4
 \n
-Essayez de tracer un diagramme ou une courbe pour représenter cette évolution. Quelle difficulté rencontrez-vous et que pouvez-vous en déduire sur cette évolution ?
+Essayez de tracer un diagramme ou une courbe pour représenter cette évolution. Quelle difficulté rencontrez-vous et que pouvez-vous en déduire sur cette évolution ? présentez vos conclusions dans le forum, discutez de cette évolution.
 {####
 ## la vitesse des ordinateurs
 **La vitesse des ordinateurs**
@@ -458,251 +426,6 @@ Les **objets connectés**, de plus en plus présents, participent également à 
 *Le Lisa*, photo par Marcin Wichary, source sous licence CC-BY 2.0.
 \n
 En **1983**, Apple achète pour 40 000$, une licence pour le brevet de la souris, et sort le premier ordinateur personnel équipé d'une souris et d'une interface graphique : le **Lisa**. Il va révolutionner le marché des ordinateurs personnels qui débutait (2 ans après le premier PC). Parmi les concepteurs du Lisa, on retrouvera **Steve Jobs**, un autre visionnaire qui fera la carrière qu'on connaît chez `Apple`.
-}
-```
-
-
-# Naissance d'internet
-
-[Naissance d'internet](https://vimeo.com/122104260){: .cours_video }
-
-Dans les années soixante, il existait aux États-Unis de gros centres
-de calcul abritant de très gros ordinateurs. Ceux-ci étaient reliés
-entre eux par des câbles qui leur permettaient de transporter
-l'information numérique : des réseaux informatiques (network en
-anglais souvent abrégé en net).
-
-En période de guerre froide, les États-Unis avaient peur de voir leurs centres
-bombardés ou une ligne qui reliait 2 centres coupée. Il fallait
-pouvoir communiquer entre des centres stratégiques et pouvoir
-bénéficier à distance des résultats des supercalculateurs même en cas
-d'attaque nucléaire. Ils ont demandé aux chercheurs de proposer un
-système qui serait tolérant aux pannes ou aux bombes!
-
-L'idée a été de multiplier les centres et d'interconnecter les réseaux
-de chaque centre. Pour protéger l'ensemble, la proposition a été de
-multiplier les chemins entre centres. Ainsi si un centre explosait ou
-qu'une ligne était coupée, les autres centres pourraient encore
-communiquer entre eux en passant par d'autres chemins : ce fut la
-naissance d'ARPANET (1971).
-
-Ce système a tout de suite rencontré un grand succès. Il a ensuite
-évolué vers INTERNET, nom qu'on lui a donné au début des années 80
-pour signifier qu'il s'agit d'une interconnexion de réseaux.
-
-Selon le vieil adage *tous les chemins mènent à Rome*, le système de
-communication permet d'échanger des données entre 2 points en passant
-par n'importe quel chemin à l'intérieur d'internet.
-
-
-```comprehension
-::signification d'internet::
-[markdown]**Que signifie internet ?**
-{
-~Il s'agit de la contraction des mots anglais : *international* et *network* (réseau international).#Ça aurait pu, mais non !
-=Il s'agit de la contraction des mots *interconnection* et *networks* (interconnexion de réseaux).#Exactement !
-~Les lettres du mot I.N.T.E.R.N.E.T sont les initiales des noms de ses 8 fondateurs.#Pas du tout !
-####Internet est la contraction des deux mots anglais "interconnection" et "networks", qui signifie "interconnexion de réseaux".}
-
-
-::Âge d'internet::
-[markdown]**Quelle est la date la plus proche de la création d'internet ?**
-{
-~1789#Vraiment ?
-~1918#N'est-ce pas un peu tôt ?
-~1945#N'est-ce pas un peu tôt ?
-=1970#Oui, c'est cela.
-~1990#Non, c'est trop récent...
-~2005#Aussi tard ?
-####C'est aux environs de 1970 qu'a été créé internet.}
-
-
-::Robustesse d'internet::
-[markdown]**Pourquoi internet est-il qualifié de réseau robuste ou tolérant aux pannes ?**
-{
-~Parce qu'il est fabriqué avec des matériaux très résistants.#Et non, ce n'est pas uniforme...
-~Parce que beaucoup de salariés sont à sa disposition pour le réparer rapidement si nécessaire.#Vous êtes sûr ?
-=Parce que, de par sa conception, il peut fonctionner en mode *dégradé*, c'est à dire que même si des lignes ou des machines sont en panne, d'autres chemins peuvent être utilisés pour véhiculer les
-informations.#Tout à fait !
-####Parce qu'il peut fonctionner en mode "dégradé"... }
-```
-
-```activité-avancée
-::Qui a inventé internet ?::
-On a parfois une représentation erronée du rôle des différents pays dans la **création** d'internet. Faites des recherches sur les deux personnes suivantes pour rétablir un juste équilibre.
-\n
-- Qui est Vinton « Vint » Gray Cerf ? Comment est-il parfois surnommé ?
-- Qui est Louis Pouzin ? Qu'était le projet Cyclades ?
-\n
-Après vous être documenté sur ces deux personnages importants, rédigez une courte réponse qui résume ce que vous avez appris.
-{####
-## Qui a inventé internet ?
-### Vinton Gray Cerf
-\n
-![Vinton Cerf](media/vintoncerf.jpg)
-\n
-*Dr. Vint Cerf*, photo de Veni Markovski, source sous licence CC-BY 3.0.
-\n
-*Extrait de Wikipédia*
-\n
->Vinton « Vint » Gray Cerf, né le 23 juin 1943 à New Haven, Connecticut, États-Unis, est un ingénieur américain, chercheur et co-inventeur avec Bob Kahn du protocole TCP/IP. Il est considéré comme l'un des pères fondateurs d'internet.
-\n
-Il est souvent appelé le *père d'internet*.
-\n
-### Louis Pouzin
-\n
-![louis Pouzin](media/louispouzin.jpg)
-\n
-*Louis Pouzin*, Photo de Jérémie Bernard, source sous licence CC-BY-SA 3.0.
-\n
-*Extrait de Wikipedia*
-\n
->Cyclades était un projet expérimental français ayant pour but de créer un réseau global de télécommunication utilisant la commutation de paquets. Créé en 1971, conçu par Louis Pouzin, il fut abandonné en 1978. Ses concepts ont influencé les travaux de développement d'internet en inspirant sa suite de protocoles.
-\n
-Si vous voulez écouter son **avis** sur ce qu'est devenu internet, voici une vidéo très intéressante :
-[Louis Pouzin Youtube](https://youtu.be/p70Go9IS1h4)
-}
-
-::Qui a accès à internet ?::
-Effectuez des recherches pour répondre aux questions qui suivent. Vous pouvez commencer vos recherches à partir de  [cette page sur l'histoire](http://fr.wikipedia.org/wiki/Histoire_d'Internet) et [cette page qui donne des statistiques d'utilisation](http://www.blogdumoderateur.com/chiffres-internet/)
-\n
-- Combien y avait-il dans le monde d'ordinateurs connectés en 1984 ? En 1987 ? En 1989 ? Aujourd'hui ?
-- en quelle année a-t-on passé la barre du million d'utilisateurs ?
-- Quelle proportion de la population mondiale n'a pas accès à internet ?
-- À l'inverse, quelle proportion a accès à internet en France ? Est-ce supérieur ou inférieur à la moyenne européenne ? Est-ce supérieur ou inférieur à la moyenne aux USA ?
-- En 1 minute, dans le monde, combien de recherche Google ? Combien de mails sont envoyés ? Combien de contenus sont partagés sur Facebook ?
-{####
-## Qui a accès à internet ?
-\n
-L'accès à internet a considérablement évolué en quelques années. Néanmoins, de grandes **inégalités** persistent encore.
-\n
-Le nombre d'ordinateurs connectés permet de faire une approximation du nombre de personnes qui utilisent internet.
-Il y avait **1000 machines connectées en 1984**, 3 ans plus tard 10 fois plus, c'est à dire **10 000 en 1987**. Cela a encore été multiplié par 10 dans les 2 années qui suivirent, soit **100 000 machines en 1989**. Puis le **million** d'utilisateurs a été franchi en **1992**.
-22 ans plus tard, nous en sommes à presque **3 milliards d'utilisateurs** à travers le monde. Il n'existe certainement rien d'autre à travers l'histoire qui ait connu une telle évolution !
-Et pourtant, la population mondiale est supérieure à 7 milliards, ce qui nous permet de nous rendre compte que **plus de la moitié de la population mondiale** n'a toujours **pas accès** à internet !
-En **France** en 2014, **83%** de la population est connectée, un taux supérieur à la moyenne européenne et supérieur aussi à celui des États-Unis.
-\n
-Enfin, pour tenter de mesurer l'ampleur des informations échangées sur internet, regardons ce qui ce passe en moyenne chaque minute :
-\n
-- 4 millions de recherches Google
-- 200 millions de mails envoyés
-- 2,46 millions de contenus partagés sur Facebook
-}
-```
-
-# Comment ça marche?
-
-[Comment ça marche ?](https://vimeo.com/122104315){: .cours_video }
-
-Regardons un peu plus précisément comment fonctionne internet. Trois
-ingrédients importants interviennent dans le système.
-
-Le premier est l'*adresse `IP`* qui permet de fournir un nom et une adresse à chaque machine.  Chaque ordinateur connecté à internet a un numéro unique (un peu comme un numéro de téléphone, mais bien plus long !). Ce numéro
-dépend de l'endroit où l'ordinateur se trouve dans internet et permet
-donc de trouver un chemin dans l'interconnexion de réseaux. On appelle
-ce numéro l'adresse `IP`. De façon très simplifiée, l'adresse `IP`
-comporte une partie identifiant un réseau dans cette interconnexion et
-une autre partie identifiant la machine au sein de ce réseau.
-Pour échanger des informations d'un ordinateur vers un autre, celui
-qui *envoie* l'information doit donc connaître l'adresse `IP` du
-destinataire, et pour obtenir une réponse, l'émetteur doit
-impérativement fournir dans chaque message envoyé sa propre adresse
-`IP`. Tous les messages échangés sur internet sont donc de la forme :
-`n°IP destinataire / information / n°IP émetteur`.
-
-Le deuxième ingrédient concerne le *routage des messages* sur le
-réseau.  Si les ordinateurs émetteur et destinataire sont dans le même
-réseau, le principe est simple : l'ordinateur émetteur envoie son
-message sur ce réseau et chaque ordinateur du réseau le lit. Les
-destinataires peuvent alors s'intéresser aux messages qui leurs sont
-destinés.  Si le destinataire n'est pas dans le même réseau, la
-transmission ne peut plus se faire directement à l'ordinateur du
-destinataire. L'émetteur envoie le message à une machine connectée à
-la fois à ce réseau et à un ou plusieurs autres réseaux. Cette machine
-est une passerelle/routeur qui réalise effectivement
-l'interconnexion. Le routeur renvoie alors le message vers les autres
-réseaux pour poursuivre son chemin. Et ce processus se répète jusqu'à
-ce que le message arrive à destination.
-
-
-Enfin le troisième ingrédient concerne le *nommage des machines*.  En
-effet, ce sont des femmes et des hommes qui utilisent ces
-machines. Pour désigner un destinataire, personne ne manipule
-directement des adresses `IP` qui sont des numéros bien plus longs que
-les numéros de téléphone. Dans notre interface avec le monde
-d'internet nous connaissons plutôt des noms comme `www.univ-lille3.fr`
-ou encore `www.service-public.fr`. Le lien entre adresses `IP` et noms
-se fait par le biais des *serveurs de noms* qui, à la manière d'une
-liste de contacts dans notre téléphone, stockent un ensemble de noms et
-d'adresses `IP`.
-
-Très concrètement, regardons par exemple ce qui se passe lorsque je
-veux consulter la page d'accueil de Lille 3.  Tout d'abord, je clique
-sur un lien vers le site de l'université. Ce lien contient le nom de
-la machine capable de me fournir la page d'accueil :
-`www.univ-lille3.fr`. Mon ordinateur va donc contacter un serveur de
-noms pour connaître l'adresse `IP` de cette machine. Une fois que
-cette adresse `IP` est connue, il peut communiquer avec
-`www.univ-lille3.fr` et envoyer à cette machine un message qui demande
-le contenu de cette page d'accueil. Le message contient bien entendu
-l'adresse `IP` de mon ordinateur, ainsi la machine peut me répondre en
-renvoyant le contenu qui m'intéresse. Il ne reste plus alors à mon
-ordinateur qu'à afficher ce contenu.
-
-```Comprehension
-::À quoi sert une adresse IP::
-[markdown]**À quoi sert une adresse IP ?**
-{
-=À identifier les machines connectées de façon unique.#Oui !
-~À différencier les gros ordinateurs et les plus petits.#Comment ça ?
-~À envoyer des mails automatiquement.#Pas du tout...
-####Une adresse IP (Internet Protocol) sert à identifier de façon unique les machines connectées.
-}
-
-
-::Équipement d'interconnexion::
-[markdown]**À l'aide de quel équipement réalise-t-on l'interconnexion de réseaux ?**
-{
-~Une adresse IP#Vous devriez revoir la vidéo !
-~Un serveur de noms#Non, il ne s'agit d'un serveur de noms.
-=Un routeur#Exact !
-####C'est à l'aide d'un routeur, ou une passerelle qu'on réalise l'interconnexion de réseaux.
-}
-
-
-::Qu'est-ce qu'un serveur de noms ?::
-[markdown]**Qu'est-ce qu'un serveur de noms ?**
-{
-~Un site web qui aide à choisir un prénom pour ses enfants.#C'est une blague !
-~Un logiciel (pirate) qui permet de trouver les mots de passe d'autres utilisateurs.#Pas vraiment...
-=Une machine qui contient une table d'équivalence entre des noms de machines et leur adresse IP.#Oui, c'est exact !
-####Un serveur de noms est une machine qui contient une table d'équivalence entre des noms de machines et leur adresse IP.
-}
-```
-
-```activité
-::Panne générale::
-[markdown]
-**Panne générale**
-\n
-Dans le petit schéma ci-dessous, un nuage représente un réseau local. Les petits carrés sont des routeurs ou des ordinateurs.
-\n
-![routeurs](media/exoInternet.svg)
-\n
-Supposons que les communications dans chaque réseau local fonctionnent correctement, c'est-à-dire que chaque ordinateur d'un réseau local peut communiquer avec n'importe quel ordinateur du même réseau local. L'ordinateur A doit échanger des données avec l'ordinateur B.
-\n
-- Indiquer le groupe minimal de routeurs qui devraient tomber en panne pour empêcher la communication entre A et B ?
-- Dans le cas des câbles, quel ensemble minimal de câbles devraient être coupés pour empêcher la communication entre A et B ?
-- Lister tous les chemins possibles (sans boucle) qui permettent de relier A à B.
-{####
-Correction
-\n
-- Si les routeurs C et D tombent en panne le réseau local de A est déconnecté et A ne peut plus communiquer avec B.
-- La même chose se produit si les routeurs H et I tombent en panne.
-- Si F et I tombent en panne, alors les communications passent encore par D, E, K et H.
-- Les câbles entre C-F, C-I, D-E, de la même façon isolent le réseau de A.
-\n
-A-C-I-B ; A-C-F-I-B ; A-C-F-H-B ; A-C-F-E-K-H-B ; A-D-E-K-H-B ; A-D-E-F-H-B ; A-D-E-F-I-B
 }
 ```
 
@@ -821,277 +544,6 @@ OUI et OUI, les services numériques en particulier ceux accessibles depuis **l'
 
 ```
 
-# Les supports physiques de transmission de l'information
-
-## Cours
-
-[Les supports physiques](https://vimeo.com/122104443){: .cours_video }
-
-[Connexions nomades](https://vimeo.com/122104499){: .cours_video }
-
-Internet et plus généralement les réseaux informatiques peuvent
-utiliser plusieurs types de supports pour transporter l'information
-numérique. On distinguera les supports physiques, les câbles qui
-peuvent être électriques ou optiques et les ondes électromagnétiques
-comme le Wifi, le bluetooth ou les réseaux de téléphonie mobiles. Nous
-allons voir qu'une connaissance minimale de ces technologies va nous
-permettre de mieux comprendre les enjeux qu'ils cachent.
-
-### Le débit
-Tout d'abord nous devons introduire la notion de débit. Si on prend
-l'image d'un robinet d'eau, on voit bien qu'un robinet avec un gros
-tuyau me permettra de remplir mon seau beaucoup plus vite qu'avec un
-petit robinet qui ne laisse passer qu'un léger filet d'eau. Le débit
-dans ce cas est une quantité d'eau par seconde.  La problématique est
-la même pour le réseau internet. Nous avons vu précédemment que les
-informations numériques étaient ramenées à des suites de bits (des 0
-et des1). Le débit sera donc pour les réseaux en nombre de bits par
-seconde. Comme cette information circule très vite on parlera en fait
-de milliers de bits par seconde (kb/s), de millions de bits par
-seconde (Mb/s) voire de milliards de bits par seconde (Gb/s).  À titre
-indicatif, voici quelques ordres de grandeur, un document texte d'une
-dizaine de pages se code avec quelques kbits, un fichier mp3 de
-musique de quelques minutes se compte en Mbits alors qu'un film d'une
-heure correspond à plusieurs Gbits.
-
-### Les supports et les normes relatives à leur utilisation
-Nous allons dans la suite présenter les différents supports utilisés
-dans les réseaux. Ils ont connu de fortes évolutions depuis les débuts
-d'internet. Parfois cette évolution est purement matérielle comme
-l'apparition de la fibre optique, d'autres fois l'évolution consiste
-en une meilleure utilisation du support. L'utilisation du support est
-décrite dans un ensemble de normes comme par exemple la 3G ou la 4G
-qui tous deux utilisent le support des ondes. Aussi la présentation
-suivante s'appuie à la fois sur les deux notions de norme et de
-support.
-
-### Les câbles
-S'agissant des câbles on distingue les câbles électriques et les
-fibres optiques qui transportent la lumière. Ces dernières sont
-évidemment beaucoup plus rapides et sont utilisées prioritairement
-quand c'est possible. C'est le cas par exemple de la plupart des
-câbles sous-marins qui traversent les océans pour relier les
-continents, certains ont des débits supérieurs à 100Gb/s.  Des câbles
-électriques spécifiques pour les réseaux informatiques peuvent
-également être très rapides mais sur des courtes distances.  C'est en
-général la solution retenue pour connecter les ordinateurs d'un réseau
-local dans les entreprises. C'est aussi le cas pour les ordinateurs à
-votre disposition dans les salles informatiques de l'université.
-
-En revanche, ce n'est pas le cas de la plupart du réseau français qui
-relie la majorité des foyers du pays. Les lignes qu'on appelle ADSL,
-sont en fait les câbles de l'ancien réseau téléphonique qui a été
-construit à l'origine pour transporter la voix du téléphone et non des
-informations numériques à très grande vitesse. Cela explique que les
-connexions dont nous disposons à domicile sont de qualité moyenne et
-ne permettent pas le très haut débit, sauf à passer par une fibre
-optique, c'est ce que proposent désormais beaucoup de fournisseurs
-d'accès dans certains quartiers.
-
-Évidemment, le câblage de toutes les zones habitées avec de la fibre
-optique représente un enjeu social et économique considérable. Alors
-que les lignes de téléphone sont présentes sur l'ensemble du
-territoire, seules les grandes agglomérations sont couvertes par
-l'équipement en fibres optiques. Cela représente un grand facteur
-d'inégalité...
-
-### Les ondes
-Depuis le XIXème siècle, les hommes ont réussi à s'échanger des
-informations via les ondes électromagnétiques. La radio puis la
-télévision ont copieusement utilisé ce principe qui utilise un système
-d'antennes émettrices et réceptrices. Nous savons transporter de la
-même façon des informations numériques. À chaque réseau son antenne,
-certains appareils sont équipés d'une antenne Wifi, d'une antenne
-Bluetooth et pour les téléphones d'une antenne de réseau de données
-mobiles.  Ces différentes technologies sont essentiellement utilisées
-pour nos connexions nomades, c'est-à-dire avec des appareils mobiles
-tels que des ordinateurs portables, des tablettes ou des
-smartphones. Fondamentalement, elles permettent toutes la même chose,
-c'est à dire un accès complet à internet.
-
-
-### Les connexions nomades
-
-
-On se retrouve régulièrement à devoir choisir parmi plusieurs moyens
-pour se connecter à internet avec nos appareils nomades. Les arguments
-qui entrent dans ce choix sont très variés. On pense bien entendu au
-coût. Par exemple, l'utilisation du wifi de l'université est
-gratuite. Les accès internet par le biais d'une box sont généralement
-inclus dans un forfait illimité, en revanche le coût de l'utilisation
-d'internet à l'aide de connexions 2G/3G/4G peut rapidement exploser.
-
-Un autre élément déterminant est la disponibilité de la connexion. En
-effet, selon les endroits où l'on se trouve, le réseau mobile peut
-être indisponible ou de très faible qualité, inversement il n'y a pas
-toujours un accès Wifi à notre portée. Notons que si l'on se déplace
-de plus de quelques mètres, il devient quasi-impossible de rester
-connecté à un réseau wifi qui a une portée assez faible. Les réseaux
-de téléphonie mobiles autorisent par contre une connexion permanente
-sur des longues distances à pied ou en voiture par exemple.
-
-Depuis les années 90, le réseau de téléphonie mobile permet le
-transfert de données numériques.
-
-Mais les normes et les techniques évoluent et sont de plus en plus
-rapides. Les premières générations proposaient des débits très faibles
-qui ne permettaient pas par exemple le transfert d'images ou de
-musique dans des temps raisonnables. Nous en sommes à la quatrième
-génération de la technologie, la 4G offre maintenant des débits qui
-dépassent parfois ceux des connexions wifi.
-
-### La rapidité du réseau
-Toutefois, la qualité du lien qui relie votre appareil électronique au
-réseau n'est pas le seul responsable du débit. Réfléchissons à ce qui
-fait que ma liaison est lente ou rapide. Tout d'abord il faut se
-rappeler que les débits indiqués par les constructeurs ou les
-opérateurs sont toujours théoriques et correspondent au maximum
-possible dans les meilleures conditions. En pratique, ces conditions
-sont rarement réunies et les débits peuvent être considérablement
-ralentis en fonction de plusieurs facteurs :
-
-- le premier facteur que l'on peut citer est l'éloignement, celui-ci joue aussi bien pour les connexions par onde que pour les connexions par câble. Par exemple, les accès ADSL sont très différents selon qu'on a la chance d'habiter près d'un noeud de raccordement aux abonnés (qui contient les machines des fournisseurs d'accès) ou si on en est plus éloigné, les débits peuvent alors être 10 ou 20 fois plus rapides, … pour le même prix d'abonnement.
-- De même, si on s'éloigne au fond du jardin avec son portable, la connexion wifi à notre box va considérablement perdre en qualité, jusqu'à ne plus être accessible.
-- un autre facteur important est le nombre d'utilisateurs du réseau, quelle que soit la technologie utilisée, on peut voir les autoroutes de l'information comme de vraies autoroutes, lorsqu'il y a beaucoup de voitures le trafic est ralenti, de la même façon, si une connexion wifi par exemple est partagée par plusieurs utilisateurs, le débit sera reparti entre eux et aucun d'entre eux n'aura accès au débit maximum
-- l'encombrement du réseau est encore un autre facteur, les routeurs peuvent être vus comme les péages des autoroutes, ce sont des goulots d'étranglement qui bouchonnent lorsque beaucoup de demandes arrivent en même temps
-- enfin, il arrive que l'actualité fasse que certains sites soient sollicités au même moment par des milliers ou des millions d'utilisateurs, le site ne pouvant répondre à tout le monde en même temps, le temps de réponse pour chacun se trouve considérablement ralentie.
-
-Ainsi, il est très fréquent de constater que la vitesse de
-transmission des données varie dans le temps ; varie selon les
-endroits ou les moyens avec lesquels on se connecte à internet ou
-encore varie selon les sites que l'on visite ou les services que l'on
-demande. Comme nous venons de le voir, la vitesse d'une connexion
-dépend de nombreux facteurs. Difficile donc de savoir d'où vient un
-ralentissement quand il intervient. Mais parfois, le simple changement
-du mode de connexion utilisé peut faire des miracles. Soyez agiles !!!
-
-```comprehension
-::les supports de connexion::
-[markdown]**Quels supports sont utilisés pour la transmission de données** et qui peuvent donc servir pour une connexion internet ?
-{
-~L'eau dans un tuyau.#Pas à notre connaissance, mais pourquoi pas ?
-~%20%L'électricité dans les câbles téléphonique.#Oui, l'ADSL
-~%20%L'électricité dans les câbles spécialisés.#Oui, l'électricité dans les câbles des prises électriques (Voir http://fr.wikipedia.org/wiki/Courants_porteurs_en_ligne)
-~%20%La lumière dans les fibres optiques.#Oui, aussi.
-~%20%Les ondes électromagnétiques dans l'air.#Oui, Wifi, bluetooth, réseau téléphonique 2G, 3G, 4G, etc.
-~%20%L'électricité dans les câbles des prises électriques.#Oui, voir http://fr.wikipedia.org/wiki/Courants_porteurs_en_ligne
-####Tout, sauf l'eau, évidemment ! }
-
-::vitesse de connexion::
-[markdown]**Qu'est-ce qui joue sur la vitesse d'une connexion ?**
-{
-~%25%Le débit maximal admissible du lien qui me raccorde au réseau local.#Oui, c'est l'un des paramètres.
-~%25%Le nombre d'utilisateurs de ce lien.#Exact, c'est l'un des paramètres.
-~%25%Le nombre de messages qui passent par les mêmes routeurs que les miens.#Oui, c'est un paramètre.
-~%25%Le nombre de requêtes arrivant sur la machine avec qui je désire échanger des messages.#Oui.
-~L'âge de l'utilisateur.#Sans commentaire !
-####Le débit maximal admissible du lien, le nombre d'utilisateurs de ce lien, le nombre de requêtes mais aussi le nombre de messages qui passent par les mêmes routeurs que les miens.
-}
-
-::eduroam::
-[markdown]**Eduroam**
-Pour utiliser le wifi à Lille 3 je dois :
-{
-=Avoir un compte Lille 3 ou un compte dans une autre université.#Exact !
-~Payer un abonnement.#Absolument pas, c'est gratuit.
-~Aller en cours.#Aucun rapport !
-~Utiliser un smartphone produit en France.#Aucun rapport !
-~Signer la charte graphique de Lille 3.#Non mais signer la charte informatique Lille 3 est obligatoire...
-####Avoir un compte Lille 3 valide ou un compte dans une autre université. }
-```
-
-```activité
-::Wifi ou Données mobiles ?::
-[markdown]
-**Wifi ou Données mobiles ?**
-\n
-Les possesseurs de tablette ou de smartphone peuvent se connecter à internet via le **Wifi** ou le **réseau téléphonique** (*données mobiles 3G/4G*). Vaut-il mieux se connecter avec l'un ou avec l'autre ?
-La réponse dépend de trois paramètres :
-\n
-- la **disponibilité** de ces modes de connexions (s'il n'y a pas de réseau wifi, il sera difficile de vous connectez en wifi…)
-- le **prix** de la connexion
-- la **rapidité** de la connexion
-\n
-Imaginons plusieurs situations concrètes :
-\n
-1. je suis chez moi avec un *smartphone*, le domicile est équipée d'une *Box adsl* qui fournit un accès *Wifi*. Ai-je intérêt à me connecter :
-        - avec le réseau de données mobiles (3G ou 4G)
-        - via le Wifi de la maison
-2. Je suis à *l'université* et je veux me connecter avec mon *smartphone*. Ai-je intérêt à me connecter :
-        - avec le wifi de l'université (réseau eduroam)
-        - avec mon forfait 3G/4G
-3. Je suis en *voiture* (ce n'est pas moi qui conduis) et je veux consulter mes *emails* ou faire une *recherche* sur le net avec mon *smartphone*, ai-je intérêt à me connecter :
-        - en wifi
-        - avec le réseau de données mobiles de mon opérateur téléphonique
-{####
-## Wifi ou données mobiles ?
-### Wifi ou données mobiles : Comment choisir ?
-\n
-1/ Chez moi avec un **smartphone**, j'ai intérêt à me connecter avec le **wifi** de la **Box adsl**.
-En effet, la connexion Wifi a déjà été payée dans le cadre de l'abonnement ADSL, la connexion du smartphone ou de la tablette n'engendre donc pas de frais supplémentaires.
-Par contre la connexion au réseau 3G/4G est décomptée du forfait qui est souvent limité.
-\n
-2/ **L'université** a investi dans le réseau wifi `eduroam`pour proposer ce service aux usagers, il est donc *gratuit* et n'entraîne aucun frais de connexion.
-En revanche comme dans l'exemple précédent, les forfaits *données mobiles* des abonnements téléphoniques sont souvent limités et/ou chers.
-Le réseau Wifi de l'université s'appelle eduroam et tous les usagers peuvent s'y connecter.
-\n
-3/ En **voiture**, si ce n'est pas moi qui conduit, je peux me connecter à internet en utilisant la connexion **3G/4G**.
-Elle permet de rester connecté sur de grandes distances. La couverture en agglomération et dans les zones de forte densité démographique est en général assez bonne pour l'ensemble des opérateurs,
-en revanche dans les zones plus reculées, il est parfois difficile de *trouver du réseau*. Et là tous les opérateurs n'ont pas la même couverture.
-La courte portée des antennes Wifi ne permet pas d'utiliser ce mode connexion lors de déplacements importants.
-\n
-### Le saviez-vous ? - Le relai Wifi
-\n
-On trouve dans certaines villes des bus  proposant un accès Wifi.
-Si ceux-ci sont équipés d'une antenne de réception 4G, ils peuvent ensuite "redistribuer" la connexion en Wifi, à l'intérieur du véhicule.
-Cela est également **possible** avec des **smartphones** récents. Sur le principe décrit ci-dessus, un smartphone peut se connecter à un réseau 3G/4G et ensuite se comporter comme une borne wifi à laquelle peuvent se connecter d'**autres périphériques**.
-Cela est très pratique pour se connecter avec un ordinateur là où seules des connections 3G/4G seraient disponibles ... mais attention à la facture !
- }
-
-::Les normes et leurs sigles::
-**Classez ces modes de connexion du plus lent au plus rapide.**
-\n
-3G,4G,H+,Edge
-{
-3G -> 2
-4G -> 4
-H+ -> 3
-E (Edge) -> 1
-####
-# Les normes et leurs sigles
-\n
-- Les modes de connexion du plus lent au plus rapide.
-    - E (Edge) aussi appelé 2G, lent. Ce mode de connexion permet à peine de lire ses mails. Il ne permet pas une navigation fluide sur le Web.
-    - 3G (3ème génération) permet de faire des recherches et de surfer sans trop attendre.
-    - H+, est une amélioration de la 3G. il est plus rapide que le wifi si les connexions sont optimales. Et l'accès à la musique en ligne où aux vidéos peut être envisagé.
-    - 4G, plus rapide que le wifi si les connexions sont optimales. À condition bien sûr que cette connexion soit de bonne qualité ("plusieurs petites briques"), l'accès à internet est alors très fluide, et les jeux en ligne, les vidéos en streaming ou le téléchargement de gros fichiers devient possible.
-\n
-Notez bien que pour pouvoir bénéficier d'une connexion 4G, il faut :
-\n
- - que cette connexion soit disponible là où vous vous trouvez,
- - que votre smartphone soit équipé d'une antenne 4G, c'est loin d'être le cas sur tous les modèles y compris sur des appareils récents.
- }
-
-```
-
-## Le saviez-vous ?
-### l'ADSL et ses débits
-#### Ça va plus vite dans un sens que dans l'autre
-
-Les lignes ADSL que nous utilisons souvent à domicile, ne sont pas symétriques, c'est d'ailleurs ce que signifie leur nom.
-
-[extrait de wikipedia](http://fr.wikipedia.org/wiki/Asymmetric_Digital_Subscriber_Line)  :
-
->Le sigle anglais ADSL signifie Asymmetric Digital Subscriber Line, qui se traduit fonctionnellement par « [liaison] numérique [à débit] asymétrique [sur] ligne d'abonné »1. La terminologie française officielle recommande l'expression « liaison numérique asymétrique »2, mais le sigle « ADSL » reste le plus largement utilisé dans le langage courant.
-
-Comme son nom l'indique, la technologie ADSL fournit un débit asymétrique. Le flux de données est plus important dans un sens de transmission que dans l'autre. Le débit de données montant d'une communication ADSL (upload) est plus faible que le débit descendant (download), dans un rapport qui varie généralement entre 5 et 20.
-
-En France, le lancement commercial de l'ADSL a été effectué par France Telecom Interactive en 1999
-
-En pratique, nous utilisons surtout internet à domicile pour récupérer des données plutôt que pour en envoyer. Le sens du téléchargement (download) est donc privilégié par rapport à l'upload. Le débit est plus important lorsqu'on reçoit des données que quand on en envoie.
-
-En conséquence, il ne faut pas être étonné si l'envoi d'un mail avec une grosse pièce jointe est très long tandis que la réception d'un mail identique sera beaucoup plus rapide. Cela peut aisément s'expérimenter en s'envoyant un mail avec une pièce jointe de quelques MO.
-
 # Société : qui décide sur internet?
 
 ## Cours
@@ -1133,7 +585,8 @@ citoyens pour comprendre ces enjeux et agir en conséquence.
 À voir "Une contre-histoire d'internet", de Sylvain Bergère. Retour
 sur les mouvements de défense des libertés sur internet, apparus en
 réaction à la régulation croissante du web :
-https://www.youtube.com/watch?v=tztUb=IP=b5oQ&feature=youtu.be
+https://www.youtube.com/watch?v=MUTABXD8f24
+Discutez sur le forum de vos impressions sur ce documentaire.
 
 ### Les structures politiques
 Au niveau d'internet, en plus des normes qui régissent les moyens de
@@ -1269,13 +722,13 @@ cherchez les réponses aux questions suivantes :
 - Qu'est un domaine de premier niveau ?
 - Donnez quelques exemples.
 - Qui les gère ?
-- Qu'en pensez-vous ?
+- Qu'en pensez-vous ? Donnez votre avis sur le forum.
 \n
 **la CNIL**
 \n
 - Quel est le rôle de la CNIL ?
 - Avec combien d'employés remplit-elle ses missions ?
-- Qu'en pensez-vous ?
+- Qu'en pensez-vous ? Discutez ce que vous avez avez découvert sur le forum.
 {
 ####
 **Domaines de premier niveau**
@@ -1356,7 +809,7 @@ L'ensemble des documents ainsi que les liens qui les relient forment alors un r�
 <ol>
 <li>Qu'est-ce que Wikileaks ?</li>
 <li>Qui en est le fondateur ?</li>
-<li>Exprimez-vous en quelques lignes sur votre position citoyenne (intérêt, légalité, ...) de ce genre de sites.</li>
+<li>Exprimez sur le forum en quelques lignes sur votre position citoyenne (intérêt, légalité, ...) de ce genre de sites.</li>
 </ol>
 {####<p id="docs-internal-guid-3fe28ae3-d61d-dc88-8eea-c34984c1d971"><b>WikiLeaks</b> (wikileaks.org) est une<a href="https://fr.wikipedia.org/wiki/Association_%C3%A0_but_non_lucratif"> </a><span> association à but non lucratif</span> dont le<span> site web</span><span> lanceur d'alertes</span> publie des documents ainsi que des analyses politiques et sociales. Sa raison d'être est de donner une audience aux<span> fuites d'information</span>, tout en protégeant ses sources.</p>
 <p dir="ltr">( ref : <a target="_blank" href="https://fr.wikipedia.org/wiki/WikiLeaks">https://fr.wikipedia.org/wiki/WikiLeaks</a>)</p>
@@ -1673,7 +1126,7 @@ Mais une bonne utilisation du traitement de texte passe également par la maîtr
 ```activité-avancée
 ::Activité sur les serveurs::[markdown]
 Rendez-vous sur la page :
-[pageServeurs.html](http://culturenumerique.univ-lille3.fr/activitesWeb/html/pageServeurs.html)
+[pageServeurs.html](http://culturenumerique.univ-lille.fr/activitesWeb/html/pageServeurs.html)
 \n
 Lisez, observez et répondez aux questions posées...
 {}
@@ -1764,9 +1217,9 @@ Si bien que par exemple, le parlement a dû légiférer il y a plus de 30 ans po
 ```activité-avancée
 
 [html]<p>Rendez-vous sur les pages suivantes, lisez et effectuez les manipulations demandées :</p>
-<ul><li><a target="_blank" href="http://culturenumerique.univ-lille3.fr/activitesWeb/cookies/cookie.php">http://culturenumerique.univ-lille3.fr/activitesWeb/cookies/cookie.php</a></li>
-<li><a target="_blank" href="http://culturenumerique.univ-lille3.fr/activitesWeb/cookies/cookietiers.html">http://culturenumerique.univ-lille3.fr/activitesWeb/cookies/cookietiers.html</a></li></ul>
-Notez si vous le souhaitez vos remarques ci-dessous (réponse non obligatoire)
+<ul><li><a target="_blank" href="http://culturenumerique.univ-lille.fr/activitesWeb/cookies/cookie.php">http://culturenumerique.univ-lille.fr/activitesWeb/cookies/cookie.php</a></li>
+<li><a target="_blank" href="http://culturenumerique.univ-lille.fr/activitesWeb/cookies/cookietiers.html">http://culturenumerique.univ-lille.fr/activitesWeb/cookies/cookietiers.html</a></li></ul>
+Discutez sur le forum de votre position sur les cookies et les cookies tiers
 {}
 ```
 
@@ -1940,16 +1393,16 @@ Grâce aux cookies contenant des numéros d'identification, des sites ou
 
 // question: 296  name: Cookies tiers or not cookies tiers ?
 ::Cookies tiers or not cookies tiers ?::[html]<p>Les navigateurs doivent-ils par défaut autoriser les cookies tiers ?</p>
-**Remarque:** pour cette question et les suivantes, répondez d'abord dans un document séparé, puis collez les réponses dans les zones prévues une fois votre travail terminé.
+Discutez ce point dans le forum.
 {}
 
 
 // question: 297  name: J'aime ou j'aime pas ?
-::J'aime ou j'aime pas ?::[html]<p>Un webmaster doit-il prévenir les internautes lorsqu'il décide d'inclure sur sa page un bouton associé à un script qui collecte des informations pour un tiers ?</p>{}
+::J'aime ou j'aime pas ?::[html]<p>Un webmaster doit-il prévenir les internautes lorsqu'il décide d'inclure sur sa page un bouton associé à un script qui collecte des informations pour un tiers ?</p>Discutez ce point dans le forum.{}
 
 
 // question: 295  name: Pister or not pister ?
-::Pister or not pister ?::[html]<p>Trouvez-vous normal qu'un réseau social piste ses adhérents sans les prévenir ?</p>{}
+::Pister or not pister ?::[html]<p>Trouvez-vous normal qu'un réseau social piste ses adhérents sans les prévenir ?Discutez ce point dans le forum.</p>{}
 
 
 ::Question de loyauté::[html]<p>Écoutez l'enregistrement "Quand nos smartphones sont espionnés" depuis
@@ -1957,7 +1410,7 @@ Grâce aux cookies contenant des numéros d'identification, des sites ou
 puis répondez à la question qui suit.</p>{}
 
 // question: 298  name: Exemple d'application qui ne respecte pas la loyauté
-::Exemple d'application qui ne respecte pas la loyauté::[html]<p>Donnez un exemple d'application citée dans l'enregistrement qui ne respecte pas les principes de base de loyauté entre éditeur d'application et utilisateur.</p>{}
+::Exemple d'application qui ne respecte pas la loyauté::[html]<p>Donnez un exemple d'application citée dans l'enregistrement qui ne respecte pas les principes de base de loyauté entre éditeur d'application et utilisateur.</p> Donnez sur le forum des exemples d'applications loyales et d'autres déloyales.{}
 
 ::tracker::
 [markdown]
@@ -1973,7 +1426,7 @@ Aujourd'hui la majorité des collectes d'informations personnelles passent par l
  Prenons l'exemple de l'URL suivante :
 
  ```
- http://www.univ-lille3.fr/etudes/orientation-emploi/.
+ http://www.univ-lille.fr/etudes/orientation-emploi/.
 ```
 
  Rappelons que la partie `etudes/orientation-emploi` désigne une
@@ -2150,9 +1603,12 @@ En vous aidant entre autres du lien suivant <a href="https://www.laquadrature.ne
 
 ::Des moteurs de recherche moins intrusifs...::Attention, vous n'avez droit qu'à une seule tentative. Répondez d'abord dans un document séparé, puis collez les réponses dans la zone prévue une fois votre travail terminé.
 
+::qwant::[markdown]Après avoir visionné cet petit spot de présentation https://youtu.be/Evahh1PXJIg, faites des recherches sur Qwant et ses différences.{}
 
 // question: 306  name: DuckDuckGo
-::DuckDuckGo::[html]<p>Utilisez maintenant un nouveau moteur de recherche <a href\="https\://duckduckgo.com/" target\="_blank">https\://duckduckgo.com/</a>, testez-le \:</p><p>Qu'obtenez vous avec le mot \: Go</p><p>Qu'obtenez vous avec le mot \: Go!wfr</p><p>Qu'obtenez vous avec le mot \: Go!gfr</p><p>Décrivez les réponses obtenues et après quelques recherches personnelles, expliquez ce qu'est DuckDuckGo et pourquoi certains utilisateurs préfèrent l'utiliser.</p>{}
+::DuckDuckGo::[html]<p>Utilisez maintenant un nouveau moteur de recherche <a href\="https\://duckduckgo.com/" target\="_blank">https\://duckduckgo.com/</a>, testez-le \:</p><p>Qu'obtenez vous avec le mot \: Go</p><p>Qu'obtenez vous avec le mot \: Go!wfr</p><p>Qu'obtenez vous avec le mot \: Go!gfr</p><p>Décrivez les réponses obtenues et après quelques recherches personnelles, expliquez ce qu'est DuckDuckGo et pourquoi certains utilisateurs préfèrent l'utiliser.</p>
+Débattez sur le forum de votre choix de moteur de recherche.
+{}
 
 ```
 
@@ -2221,7 +1677,7 @@ Les activités associées à ce module vont entre autre vous permettre de voir c
 
 ::L'intermédiation: votre analyse::[html]
 <p>Pour terminer ce cours, nous vous proposons de regarder une vidéo d'une présentation par Stéphane Grumbach qui explique les impacts du web et des données numériques d'un point de vue sociétal.</p>
-<p><a target="_blank" class="moz-txt-link-freetext" href="http://streaming.imag.fr/2014-05-15_Stephane-Grumbach_l-economie-de-l-intermediation_keynote-lig.mp4" >http://streaming.imag.fr/2014-05-15_Stephane-Grumbach_l-economie-de-l-intermediation_keynote-lig.mp4</a> (1h11mn).</p>
-<p>Citez les éléments dans ce séminaire de Stéphane Grumbach qui vous ont le plus surpris.<em>Remarque: cette question est ouverte, répondez d'abord dans un document séparé, puis collez votre réponse dans la zone prévue une fois votre travail terminé.</em></p>
+<p><a target="_blank" class="moz-txt-link-freetext" href="http://newstream.u-ga.fr/2014-05-15_Stephane-Grumbach_l-economie-de-l-intermediation_keynote-lig.mp4" >http://newstream.u-ga.fr/2014-05-15_Stephane-Grumbach_l-economie-de-l-intermediation_keynote-lig.mp4 </a> (1h11mn).</p>
+<p>Débattez sur le forum de ce qui vous a marqué dans cette présentation</em></p>
 {}
 ```
