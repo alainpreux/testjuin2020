@@ -13,6 +13,8 @@ plutôt comme cette discipline naissait à peine, aux mathématiciens et
 électroniciens qui les créaient. En anglais un ordinateur se nomme
 *computer*, dont la traduction exacte est *calculateur*.
 
+![Alan Turing](media/alanturing.jpg)
+
 Fondamentalement les ordinateurs ne font que des calculs, ils ne
 savent pas manipuler autre chose que des nombres, qui plus est des
 nombres représentés sous forme binaire c'est-à-dire avec des 0 et
