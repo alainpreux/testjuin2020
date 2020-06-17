@@ -8,7 +8,7 @@ CSS: http://culturenumerique.univ-lille.fr/css/base.css
 
 [Informatique et numérique](https://vimeo.com/122104210){: .cours_video }
 
-À l'origine, les ordinateurs étaient réservés aux informaticiens, ou
+À l'origine, au début, les ordinateurs étaient réservés aux informaticiens, ou
 plutôt comme cette discipline naissait à peine, aux mathématiciens et
 électroniciens qui les créaient. En anglais un ordinateur se nomme
 *computer*, dont la traduction exacte est *calculateur*.
